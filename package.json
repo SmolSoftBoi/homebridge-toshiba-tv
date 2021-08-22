@@ -1,19 +1,18 @@
 {
-  "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Toshiba TV",
+  "name": "homebridge-toshiba-tv",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Homebridge Toshiba TV.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/EpicKris/homebridge-toshiba-tv.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/EpicKris/homebridge-toshiba-tv/issues"
   },
   "engines": {
-    "node": ">=10.17.0",
+    "node": ">=10.17",
     "homebridge": ">0.4.53"
   },
   "main": "dist/index.js",
@@ -29,13 +28,15 @@
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^13.13.4",
-    "@typescript-eslint/eslint-plugin": "^2.30.0",
-    "@typescript-eslint/parser": "^2.30.0",
-    "eslint": "^6.8.0",
+    "@typescript-eslint/eslint-plugin": "^2.30",
+    "@typescript-eslint/parser": "^2.30",
+    "eslint": "^6.8",
     "homebridge": "^1.0.4",
     "nodemon": "^2.0.3",
     "rimraf": "^3.0.2",
     "ts-node": "^8.10.1",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "vestel-network-remote": "https://gitlab.fancy.org.uk/samuel/vestel-network-remote.git",
+    "vestel-tv-api": "^0"
   }
 }

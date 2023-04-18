@@ -12,7 +12,7 @@
     "url": "https://github.com/EpicKris/homebridge-toshiba-tv/issues"
   },
   "engines": {
-    "node": ">=10.17",
+    "node": ">=14.18.1",
     "homebridge": ">0.4.53"
   },
   "main": "dist/index.js",

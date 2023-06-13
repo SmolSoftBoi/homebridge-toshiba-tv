@@ -30,7 +30,7 @@
     "@types/node": "^20.3.1",
     "@typescript-eslint/eslint-plugin": "^2.30",
     "@typescript-eslint/parser": "^2.30",
-    "eslint": "^6.8",
+    "eslint": "^8.42",
     "homebridge": "^1.6.1",
     "nodemon": "^2.0.3",
     "rimraf": "^3.0.2",

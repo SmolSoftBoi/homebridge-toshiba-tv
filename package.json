@@ -35,7 +35,7 @@
     "nodemon": "^2.0.3",
     "rimraf": "^3.0.2",
     "ts-node": "^10.3.0",
-    "typescript": "^4.4.4",
+    "typescript": "^5.1.3",
     "vestel-network-remote": "git+https://gitlab.fancy.org.uk/samuel/vestel-network-remote",
     "vestel-tv-api": "^0"
   }

@@ -33,7 +33,7 @@
     "eslint": "^8.57.0",
     "homebridge": "^1.7.0",
     "nodemon": "^3.0.3",
-    "rimraf": "^5.0.5",
+    "rimraf": "^5.0.7",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.3",
     "vestel-network-remote": "git+https://gitlab.fancy.org.uk/samuel/vestel-network-remote",

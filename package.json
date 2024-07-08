@@ -28,7 +28,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^20.14.4",
-    "@typescript-eslint/eslint-plugin": "^7.4.0",
+    "@typescript-eslint/eslint-plugin": "^7.16.0",
     "@typescript-eslint/parser": "^7.13.1",
     "eslint": "^8.57.0",
     "homebridge": "^1.7.0",
